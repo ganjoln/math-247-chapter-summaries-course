@@ -10,9 +10,9 @@ before:
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
-    event: issues.assigned
+  - title: Chapter 1 Part 1
+    description: This summary includes investigations 1.1-1.7.
+    event: issues
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue

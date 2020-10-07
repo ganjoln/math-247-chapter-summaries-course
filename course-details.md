@@ -1,9 +1,8 @@
-This is the description we show on the course page [here](https://lab.github.com/ganjoln/math-247-chapter-summaries). This first paragraph will be featured at the top of the page so make it great.
+Welcome to Nadia's study guide to Statistics with Applications! I will be updating this website with chapter summaries for the third edition of "Investigating statistical concepts, applications and methods" by Beth L. Chance and Allan J. Rossman.
 ​
 
 ​
-Be sure to tell the learner about the technology you are teaching, why they should learn it, how they can use it, and what you will teach them.
+We'll be learning how to use Rstudio for statistical analysis.
 ​
 
 
-Include information on how they can reach you for questions about the content or course. 
