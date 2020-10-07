@@ -1,0 +1,18 @@
+title: MATH-247 Chapter Summaries
+description: >-
+  Chapter Summaries created by Nadia Ganjoloo for MATH-247: Statistics with
+  Applications.
+template:
+  repo: math-247-chapter-summaries-template
+  name: math-247-chapter-summaries
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
